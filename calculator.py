@@ -17,3 +17,7 @@ def multiply(first_term, second_term):
 
 def divide(first_term, second_term):
     return first_term / second_term
+
+
+def modulo(first_term, second_term):
+    return first_term % second_term
